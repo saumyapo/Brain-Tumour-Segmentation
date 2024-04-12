@@ -8,5 +8,5 @@ This is a side project to explore using U-Net Architecture to segment brain tumo
 
 3. The method used is described below but follows a basic workflow of employing U-Net to segment black and white medical images.
 
-### References used:
-1. https://github.com/sdsubhajitdas/Brain-Tumor-Segmentation
+<!---  ### References used:--->
+<!---  1. https://github.com/sdsubhajitdas/Brain-Tumor-Segmentation--->
