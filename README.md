@@ -7,3 +7,6 @@ This is a side project to explore using U-Net Architecture to segment brain tumo
    *  [Cheng, Jun, et al. "Retrieval of Brain Tumors by Adaptive Spatial Pooling and Fisher Vector  Representation." PloS one 11.6 (2016).](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157112)
 
 3. The method used is described below but follows a basic workflow of employing U-Net to segment black and white medical images.
+
+### Refrences used:
+1. https://github.com/sdsubhajitdas/Brain-Tumor-Segmentation
